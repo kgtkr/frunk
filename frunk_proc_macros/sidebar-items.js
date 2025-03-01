@@ -1,1 +1,1 @@
-initSidebarItems({"macro":[["path","Add one to an expression."]]});
+window.SIDEBAR_ITEMS = {"macro":["Path","path"]};
